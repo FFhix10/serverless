@@ -1,5 +1,5 @@
 {
-  "name": "serverless",
+  "name": "@yonomi/serverless",
   "version": "2.14.0",
   "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more",
   "preferGlobal": true,
